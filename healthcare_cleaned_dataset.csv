@@ -1,0 +1,351 @@
+PatientID,Gender,Age,Department,BMI,BloodPressure_Systolic,Cholesterol,Smoker,LengthOfStay_days,Readmitted
+213,Male,64.0,General Medicine,22.4,146.0,217.0,No,2.6,Yes
+259,Female,33.0,General Medicine,29.5,106.0,193.0,No,0.9,No
+99,Male,37.0,Cardiology,29.3,121.0,196.0,No,13.1875,Yes
+83,Female,52.0,Cardiology,23.0,127.0,210.0,No,1.1,No
+140,Female,52.0,Orthopedics,27.5,107.0,268.0,Yes,13.0,No
+138,Male,58.0,Cardiology,20.9,131.0,126.0,No,2.8,No
+206,Male,41.0,Orthopedics,27.9,112.0,245.0,No,1.5,No
+181,Female,54.0,Neurology,20.0,136.0,189.0,No,0.1,No
+178,Male,58.0,General Medicine,22.2,118.0,250.0,Yes,7.0,No
+105,Female,36.0,Unknown,22.5,142.0,209.0,Yes,4.0,No
+152,Female,59.0,Cardiology,23.3,126.0,215.0,Yes,10.7,No
+61,Female,55.0,Cardiology,32.2,119.0,209.0,Unknown,12.7,No
+56,Male,50.0,Neurology,22.9,116.0,179.0,No,7.6,No
+263,Male,66.0,General Medicine,27.9,152.0,196.0,No,1.5,No
+291,Male,27.0,Neurology,36.800000000000004,142.0,113.125,No,13.1875,No
+137,Female,44.0,General Medicine,27.7,135.0,232.0,No,5.1,No
+136,Female,62.0,Cardiology,19.7,134.0,192.0,No,6.5,No
+21,Female,57.0,General Medicine,26.5,127.0,200.0,Yes,0.9,Yes
+104,Male,53.0,Neurology,30.4,147.0,167.0,No,4.7,Yes
+144,Male,34.0,Orthopedics,27.2,136.0,240.0,Yes,6.5,No
+15,Male,8.0,Cardiology,23.8,127.0,133.0,No,5.2,Yes
+198,Male,39.0,Cardiology,23.4,147.0,196.5,Yes,1.5,No
+258,Male,72.0,Neurology,33.9,113.0,198.0,Yes,1.0,No
+50,Female,50.0,Cardiology,24.7,125.0,184.0,Yes,1.5,No
+84,Female,57.0,Cardiology,27.7,109.0,257.0,Unknown,8.2,No
+201,Female,57.0,Orthopedics,21.8,156.0,162.0,Yes,6.1,Yes
+248,Female,17.0,Cardiology,28.5,133.0,222.0,Yes,13.1875,Yes
+332,Female,29.0,General Medicine,24.6,155.0,248.0,Yes,4.1,Yes
+210,Male,48.0,General Medicine,23.9,113.0,221.0,Yes,4.0,No
+22,Female,44.0,Cardiology,24.4,127.0,207.0,No,1.0,No
+102,Male,44.0,General Medicine,25.4,124.0,194.0,Yes,6.8,No
+160,Male,33.0,Cardiology,32.0,110.0,181.0,No,0.8,No
+42,Male,43.0,Neurology,20.9,125.0,168.0,Yes,3.0,Yes
+62,Female,44.0,General Medicine,27.2,136.0,221.0,No,4.2,No
+75,Female,43.0,General Medicine,26.7,122.0,193.0,No,3.3,Yes
+194,Female,4.0,Cardiology,28.6,121.0,214.0,Yes,1.0,No
+165,Female,34.0,Neurology,28.0,130.0,199.0,No,6.9,Yes
+217,Female,62.0,Neurology,22.6,140.0,196.5,No,0.8,No
+207,Female,54.0,Neurology,29.6,130.0,229.0,Yes,3.8,No
+187,Male,35.0,General Medicine,27.4,127.0,195.0,No,5.5,No
+170,Male,4.0,General Medicine,16.7,140.0,251.0,No,2.1,Yes
+299,Male,42.0,General Medicine,36.800000000000004,121.0,196.5,No,0.4,No
+239,Female,53.0,Orthopedics,21.8,125.0,171.0,No,5.8,No
+293,Male,54.0,Neurology,19.8,139.0,196.5,No,0.1,No
+27,Female,53.0,Neurology,30.5,128.0,192.0,No,1.7,No
+222,Male,35.0,Unknown,32.8,123.0,191.0,No,4.1,No
+17,Male,36.0,Cardiology,15.7,122.0,214.0,No,4.8,No
+223,Female,36.0,General Medicine,30.4,129.0,229.0,No,1.6,Yes
+12,Female,84.0,Cardiology,28.9,99.0,284.125,Yes,0.1,Yes
+306,Male,55.0,Unknown,27.6,154.0,152.0,No,6.7,Yes
+185,Male,62.0,Cardiology,17.0,132.0,143.0,No,12.2,No
+40,Male,49.0,Unknown,25.5,85.0,240.0,No,2.4,No
+218,Female,59.0,Cardiology,29.4,118.0,224.0,Yes,4.5,Yes
+45,Female,25.0,General Medicine,27.4,111.0,197.0,No,1.7,No
+13,Male,36.0,Unknown,18.7,108.0,186.0,Yes,3.0,Yes
+32,Female,61.0,General Medicine,27.7,131.0,230.0,Yes,0.6,Yes
+145,Female,56.0,General Medicine,16.0,126.0,200.0,No,2.8,No
+191,Male,35.0,Neurology,17.7,115.0,141.0,No,13.1875,No
+54,Female,35.0,Neurology,25.3,132.0,210.0,No,0.1,No
+166,Female,39.0,General Medicine,25.7,102.0,142.0,No,3.5,Yes
+89,Male,42.0,Cardiology,26.7,95.0,191.0,No,7.9,No
+287,Female,58.0,Cardiology,22.2,132.0,193.0,Unknown,2.2,No
+154,Male,35.0,General Medicine,23.3,147.0,115.0,No,1.7,No
+215,Male,52.0,General Medicine,23.1,142.0,169.0,No,6.3,No
+220,Male,61.0,Cardiology,18.8,140.0,280.0,No,1.2,Yes
+29,Female,66.0,General Medicine,25.5,109.0,170.0,No,0.5,Yes
+316,Male,34.0,Cardiology,23.0,102.0,155.0,No,1.8,Yes
+308,Male,57.0,Orthopedics,25.6,159.0,164.0,No,5.5,No
+283,Female,42.0,Cardiology,16.1,117.0,147.0,No,7.6,No
+202,Male,62.0,General Medicine,21.5,101.0,212.0,No,8.2,No
+244,Female,50.0,Orthopedics,25.1,136.0,205.0,Yes,7.0,No
+53,Female,84.0,General Medicine,32.2,107.0,221.0,No,5.7,No
+272,Male,26.0,Orthopedics,23.8,108.0,168.0,No,7.6,No
+348,Male,44.0,Cardiology,24.0,129.0,261.0,No,5.8,No
+268,Male,49.0,Neurology,13.6,120.0,175.0,No,5.2,No
+197,Male,45.0,Cardiology,20.4,110.0,240.0,No,2.8,No
+164,Female,45.0,General Medicine,22.5,116.0,190.0,Yes,6.4,No
+295,Female,27.0,General Medicine,13.6,137.0,205.0,No,3.3,No
+256,Female,40.0,Orthopedics,25.3,120.0,234.0,No,1.6,Yes
+175,Female,50.0,Orthopedics,15.1,145.0,212.0,No,3.4,No
+278,Male,43.0,Cardiology,31.0,110.0,162.0,Yes,2.1,No
+349,Female,41.0,General Medicine,25.7,120.0,284.125,No,3.6,No
+155,Male,53.0,Orthopedics,29.7,139.0,176.0,No,2.7,No
+320,Female,59.0,Orthopedics,24.3,109.0,225.0,No,13.1875,No
+125,Female,51.0,Cardiology,36.800000000000004,137.0,146.0,No,13.1875,Yes
+131,Male,19.0,General Medicine,34.1,116.0,180.0,Yes,0.7,No
+269,Male,30.0,Unknown,26.9,121.0,223.0,No,0.8,No
+9,Male,53.0,General Medicine,29.3,101.0,199.0,Yes,2.5,No
+114,Female,64.0,Cardiology,23.0,157.0,220.0,No,5.3,No
+71,Female,50.0,Cardiology,23.8,133.0,174.0,Yes,1.8,No
+3,Male,37.0,Cardiology,28.1,120.0,196.5,No,6.0,Yes
+285,Female,52.0,Orthopedics,20.9,123.0,251.0,Yes,11.7,No
+156,Male,4.0,Neurology,19.8,123.0,213.0,No,10.4,No
+240,Male,40.0,Cardiology,20.5,95.0,205.0,No,4.1,No
+275,Male,29.0,Cardiology,27.3,150.0,222.0,No,6.1,No
+26,Male,59.0,Neurology,22.0,129.0,284.125,No,0.8,No
+199,Female,23.0,General Medicine,36.800000000000004,123.0,218.0,No,3.9,No
+317,Male,43.0,Cardiology,25.3,142.0,178.0,Yes,6.9,No
+314,Female,65.0,General Medicine,24.4,145.0,187.0,No,1.7,No
+190,Female,33.0,Cardiology,31.3,165.0,173.0,No,0.6,No
+38,Male,4.0,Cardiology,20.7,107.0,172.0,No,4.6,No
+103,Female,46.0,Cardiology,25.2,130.0,191.0,No,12.8,No
+221,Male,38.0,General Medicine,18.6,131.0,142.0,Yes,0.4,No
+189,Male,43.0,Neurology,15.0,131.0,184.0,No,8.6,No
+86,Female,33.0,Cardiology,29.2,125.0,169.0,No,10.0,Yes
+147,Male,61.0,Unknown,22.7,133.0,185.0,No,0.4,Yes
+296,Male,50.0,Cardiology,24.3,149.0,192.0,No,0.2,No
+23,Male,53.0,Orthopedics,19.5,117.0,165.0,Yes,1.0,No
+63,Male,19.0,Orthopedics,19.9,112.0,190.0,No,1.2,No
+107,Female,54.0,Cardiology,23.7,124.0,203.0,No,13.1875,No
+106,Female,10.0,General Medicine,24.9,115.0,217.0,No,5.7,No
+294,Male,14.0,Cardiology,32.4,160.0,196.5,No,13.1875,No
+230,Female,37.0,General Medicine,13.6,157.0,239.0,Yes,0.3,No
+100,Female,44.0,Cardiology,16.7,121.0,132.0,No,3.0,No
+70,Female,23.0,Orthopedics,28.6,133.0,160.0,No,0.8,No
+257,Female,24.0,Orthopedics,21.1,140.0,185.0,No,2.2,No
+151,Male,43.0,General Medicine,23.9,117.0,214.0,Yes,8.7,No
+233,Female,63.0,Cardiology,29.8,129.0,202.0,No,1.9,No
+55,Male,33.0,Cardiology,15.9,111.0,144.0,No,2.8,No
+227,Female,35.0,General Medicine,16.6,116.0,154.0,No,2.3,No
+135,Female,70.0,General Medicine,28.5,139.0,190.0,Unknown,0.1,Yes
+319,Female,75.0,Neurology,27.2,115.0,204.0,No,3.2,No
+313,Female,56.0,Orthopedics,15.7,105.0,196.5,No,6.5,Yes
+78,Male,28.0,General Medicine,24.9,118.0,222.0,No,5.8,No
+96,Female,32.0,General Medicine,29.2,110.0,180.0,Yes,0.3,No
+30,Female,30.0,Orthopedics,20.0,142.0,166.0,No,7.1,No
+176,Male,39.0,General Medicine,23.8,147.0,156.0,No,1.5,Yes
+328,Male,62.0,Orthopedics,26.6,136.0,182.0,Yes,3.1,No
+289,Male,46.0,General Medicine,30.2,150.0,231.0,No,3.5,No
+334,Female,50.0,Neurology,28.3,131.0,199.0,No,0.5,No
+117,Male,60.0,Neurology,28.7,102.0,139.0,No,1.3,No
+87,Female,44.0,Orthopedics,26.2,122.0,185.0,No,4.6,No
+309,Female,46.0,Neurology,25.5,125.0,230.0,No,5.7,No
+124,Female,42.0,Neurology,25.5,118.0,236.0,No,9.0,No
+330,Male,57.0,Orthopedics,32.2,132.0,170.0,No,5.9,No
+4,Female,50.0,Orthopedics,24.9,150.0,224.0,Unknown,2.6,No
+113,Female,22.0,Cardiology,20.4,105.0,203.0,No,2.8,No
+196,Female,50.0,Cardiology,31.4,107.0,181.0,No,3.6,Yes
+229,Female,44.0,General Medicine,17.0,135.0,222.0,No,1.3,No
+318,Female,37.0,General Medicine,26.9,139.0,140.0,No,2.1,No
+326,Female,54.0,Cardiology,31.9,136.0,171.0,No,2.3,No
+52,Male,35.0,Neurology,26.2,131.0,196.5,Yes,0.9,No
+37,Female,50.0,Cardiology,21.9,107.0,124.0,Yes,13.1875,Yes
+98,Female,61.0,Cardiology,18.9,143.0,209.0,No,5.2,No
+228,Male,57.0,Orthopedics,27.5,144.0,194.0,Yes,2.4,No
+14,Male,38.0,Orthopedics,33.9,138.0,225.0,Yes,1.5,No
+59,Female,44.0,General Medicine,28.5,131.0,155.0,No,5.5,No
+174,Male,51.0,Orthopedics,24.3,127.0,276.0,No,6.8,No
+184,Male,52.0,General Medicine,32.0,164.0,251.0,No,13.1875,Yes
+273,Male,67.0,General Medicine,31.5,127.0,215.0,No,1.1,No
+10,Female,33.0,Orthopedics,30.8,124.0,131.0,No,13.1875,No
+129,Female,31.0,General Medicine,20.7,129.0,174.0,No,3.9,Yes
+303,Male,59.0,Cardiology,26.5,129.0,151.0,Yes,3.5,Yes
+236,Female,49.0,General Medicine,31.5,131.0,204.0,No,3.6,No
+46,Female,21.0,General Medicine,26.5,127.0,160.0,No,1.6,Yes
+116,Female,54.0,Neurology,28.0,115.0,195.0,Yes,6.1,No
+292,Male,55.0,Neurology,35.3,119.0,191.0,No,3.3,Yes
+158,Female,23.0,Cardiology,30.2,114.0,132.0,Yes,1.8,No
+25,Male,24.0,General Medicine,32.5,162.0,196.5,No,7.4,Yes
+235,Female,24.0,Cardiology,25.7,134.0,235.0,No,11.1,No
+183,Female,58.0,Cardiology,22.3,129.0,202.0,No,13.1875,No
+311,Male,33.0,General Medicine,22.8,135.0,162.0,Yes,7.5,Yes
+127,Female,48.0,Cardiology,24.2,108.0,117.0,Yes,12.6,Yes
+298,Male,34.0,Cardiology,22.0,118.0,210.0,Yes,2.1,No
+203,Female,47.0,Orthopedics,29.7,120.0,181.0,No,13.1875,No
+297,Female,62.0,Cardiology,26.8,118.0,212.0,Yes,0.5,No
+34,Female,45.0,Cardiology,29.3,112.0,247.0,No,1.0,No
+247,Male,31.0,Cardiology,26.0,92.0,214.0,No,13.1875,No
+123,Male,44.0,Neurology,24.3,128.0,209.0,No,4.1,No
+64,Male,64.0,Cardiology,22.3,111.0,267.0,No,7.0,Yes
+67,Female,41.0,Neurology,25.9,107.0,197.0,No,0.5,No
+208,Female,47.0,Cardiology,25.4,136.0,202.0,No,0.6,No
+231,Female,22.0,General Medicine,17.7,144.0,220.0,Yes,1.6,No
+279,Male,60.0,Orthopedics,24.0,123.0,189.0,Yes,13.1875,No
+219,Female,41.0,Cardiology,26.0,91.0,129.0,Yes,5.5,No
+1,Male,68.0,Cardiology,21.0,151.0,174.0,No,2.4,No
+122,Female,21.0,Cardiology,25.5,134.0,176.0,Yes,7.9,No
+109,Male,47.0,Orthopedics,18.6,109.0,211.0,No,5.8,No
+171,Male,53.0,Neurology,19.6,132.0,130.0,Yes,6.2,No
+6,Female,55.0,Orthopedics,36.800000000000004,110.0,175.0,Yes,2.4,No
+5,Female,37.0,Cardiology,32.2,133.0,156.0,No,8.0,No
+323,Male,36.0,General Medicine,29.7,125.0,174.0,No,0.5,Yes
+58,Female,49.0,Cardiology,28.1,85.0,196.0,Yes,1.5,No
+288,Female,31.0,Cardiology,25.4,122.0,234.0,No,13.1875,No
+60,Female,26.0,Cardiology,23.4,91.0,242.0,Yes,0.5,No
+325,Male,71.0,Neurology,24.9,124.0,155.0,No,13.1875,No
+48,Male,26.0,General Medicine,36.800000000000004,124.0,173.0,No,0.5,No
+261,Unknown,50.0,Cardiology,21.8,125.0,216.0,No,5.6,No
+47,Male,35.0,Neurology,23.7,130.0,225.0,Yes,1.3,No
+241,Female,31.0,Orthopedics,15.1,115.0,196.5,No,5.3,No
+121,Male,4.0,Orthopedics,27.6,127.0,248.0,No,0.9,Yes
+31,Male,38.0,General Medicine,20.9,154.0,229.0,No,1.3,No
+200,Female,30.0,General Medicine,25.5,125.0,233.0,No,1.7,No
+159,Unknown,50.0,Orthopedics,25.4,120.0,175.0,No,0.4,No
+130,Male,40.0,Cardiology,30.0,121.0,187.0,No,3.3,No
+167,Female,34.0,Neurology,23.5,142.0,231.0,Yes,10.6,Yes
+57,Male,55.0,Unknown,22.4,139.0,131.0,No,0.6,No
+266,Male,47.0,Orthopedics,24.6,115.0,197.0,No,4.0,No
+315,Female,47.0,Orthopedics,25.6,103.0,153.0,Yes,13.1875,No
+204,Female,32.0,General Medicine,23.5,129.0,113.125,No,10.2,No
+250,Female,16.0,Orthopedics,22.8,140.0,195.0,Unknown,3.8,No
+205,Female,47.0,Cardiology,27.6,120.0,245.0,Yes,0.8,No
+337,Male,45.0,General Medicine,28.2,111.0,262.0,No,1.6,No
+128,Female,58.0,Orthopedics,26.3,121.0,284.125,No,2.0,No
+340,Male,17.0,Cardiology,27.0,136.0,224.0,No,2.1,Yes
+310,Female,66.0,Neurology,26.3,126.0,196.5,Yes,1.2,No
+212,Female,58.0,Neurology,25.0,128.0,194.0,Unknown,7.1,Yes
+43,Female,44.0,General Medicine,21.3,116.0,169.0,Yes,4.6,Yes
+280,Female,22.0,Cardiology,26.4,116.0,195.0,No,3.6,No
+305,Male,60.0,General Medicine,23.8,132.0,186.0,No,2.4,Yes
+267,Female,53.0,Neurology,22.5,120.0,189.0,No,1.1,No
+77,Male,74.0,Cardiology,23.1,116.0,189.0,No,1.4,No
+321,Male,65.0,General Medicine,21.0,141.0,224.0,No,13.1875,No
+350,Male,60.0,Orthopedics,14.6,114.0,187.0,No,7.1,Yes
+8,Male,67.0,Unknown,28.8,139.0,216.0,No,2.8,No
+74,Female,22.0,General Medicine,20.6,114.0,163.0,No,2.1,No
+51,Male,31.0,Orthopedics,25.5,121.0,199.0,No,4.1,No
+255,Male,28.0,Cardiology,22.0,146.0,198.0,No,1.8,No
+290,Male,32.0,Unknown,16.4,137.0,217.0,No,1.5,Yes
+346,Female,72.0,Orthopedics,28.3,127.0,219.0,No,2.6,No
+153,Female,39.0,Neurology,25.8,126.0,177.0,No,1.9,Yes
+33,Male,74.0,Neurology,26.7,126.0,184.0,Unknown,3.2,No
+16,Male,59.0,General Medicine,25.5,107.0,144.0,No,4.4,No
+238,Female,15.0,Orthopedics,23.2,106.0,193.0,No,1.4,Yes
+95,Male,42.0,Cardiology,29.0,114.0,203.0,No,2.3,Yes
+108,Female,19.0,Orthopedics,28.7,111.0,166.0,Yes,2.0,No
+347,Male,49.0,General Medicine,16.7,123.0,173.0,No,4.8,No
+211,Female,26.0,Cardiology,25.8,116.0,196.0,No,13.1875,Yes
+234,Male,42.0,Neurology,21.6,118.0,228.0,Yes,1.9,No
+148,Male,44.0,Cardiology,29.8,119.0,170.0,Yes,9.9,No
+195,Male,40.0,General Medicine,23.6,150.0,191.0,Yes,0.7,No
+79,Male,22.0,Cardiology,25.6,112.0,232.0,No,5.2,No
+36,Female,35.0,Orthopedics,25.3,151.0,195.0,Yes,0.3,No
+180,Female,32.0,Orthopedics,24.4,99.0,246.0,No,1.5,No
+226,Female,47.0,General Medicine,16.6,125.0,208.0,No,3.0,Yes
+173,Male,54.0,General Medicine,35.3,126.0,192.0,No,4.8,No
+214,Female,44.0,Cardiology,28.8,126.0,153.0,No,13.1875,No
+271,Male,48.0,Cardiology,22.3,121.0,185.0,No,5.7,No
+18,Female,44.0,Orthopedics,24.1,149.0,229.0,No,2.7,No
+88,Female,77.0,General Medicine,28.6,121.0,211.0,No,2.2,No
+157,Female,34.0,Unknown,29.6,139.0,248.0,No,13.1875,Yes
+163,Male,22.0,Neurology,23.6,117.0,175.0,No,0.8,No
+344,Female,68.0,General Medicine,25.5,97.0,246.0,Yes,8.0,No
+252,Male,41.0,Orthopedics,28.5,120.0,199.0,Yes,1.3,No
+286,Male,42.0,Cardiology,17.3,125.0,203.0,Yes,0.3,No
+277,Male,37.0,General Medicine,27.9,134.0,153.0,No,0.4,No
+251,Male,71.0,Neurology,27.9,115.0,199.0,Unknown,5.7,No
+322,Female,50.0,General Medicine,27.1,153.0,188.0,No,8.2,No
+341,Female,52.0,General Medicine,17.8,129.0,192.0,Yes,2.6,No
+300,Female,22.0,Orthopedics,23.9,137.0,212.0,Yes,2.8,No
+260,Male,32.0,Neurology,30.3,144.0,176.0,Yes,5.0,No
+118,Male,44.0,Cardiology,31.6,121.0,201.0,No,8.8,No
+209,Female,35.0,Orthopedics,31.8,97.0,229.0,No,4.2,No
+65,Female,57.0,Cardiology,28.1,137.0,223.0,No,5.3,No
+11,Female,55.0,General Medicine,18.3,164.0,249.0,Yes,10.8,Yes
+307,Female,40.0,Cardiology,28.1,124.0,208.0,No,0.0,No
+112,Male,26.0,Orthopedics,25.6,107.0,207.0,No,5.4,No
+329,Female,39.0,Orthopedics,25.5,125.0,121.0,No,0.4,No
+312,Female,36.0,Neurology,25.8,126.0,128.0,Yes,3.6,Yes
+94,Female,46.0,Orthopedics,21.6,119.0,280.0,Yes,5.0,No
+336,Female,41.0,Orthopedics,17.6,127.0,153.0,Yes,0.8,Yes
+262,Male,68.0,Cardiology,23.4,149.0,195.0,Yes,0.8,No
+101,Male,35.0,General Medicine,19.9,135.0,192.0,Yes,2.6,No
+168,Female,60.0,Cardiology,20.4,124.0,154.0,No,7.0,No
+66,Male,41.0,Orthopedics,21.9,122.0,184.0,No,2.8,No
+242,Male,53.0,Cardiology,30.2,136.0,221.0,Yes,0.1,No
+7,Female,45.0,General Medicine,27.8,106.0,245.0,Yes,1.3,No
+150,Male,21.0,Orthopedics,33.8,108.0,222.0,No,13.1875,No
+282,Female,50.0,Unknown,23.3,125.0,190.0,No,0.0,Yes
+335,Male,75.0,Cardiology,20.9,101.0,198.0,No,6.7,Yes
+149,Male,32.0,Neurology,20.1,121.0,203.0,No,1.5,No
+345,Male,40.0,Neurology,20.8,113.0,211.0,Yes,4.9,No
+253,Female,28.0,Neurology,21.2,113.0,256.0,Yes,9.3,No
+186,Male,4.0,General Medicine,23.7,142.0,229.0,Yes,2.1,No
+142,Male,19.0,Orthopedics,27.5,123.0,260.0,Yes,6.5,No
+133,Male,46.0,Neurology,19.4,113.0,205.0,No,0.2,No
+119,Female,40.0,General Medicine,13.9,125.0,210.0,Yes,2.3,No
+245,Male,66.0,Orthopedics,15.5,136.0,275.0,Yes,0.1,No
+120,Male,30.0,Orthopedics,32.2,100.0,186.0,No,9.4,No
+342,Female,26.0,Cardiology,24.6,122.0,160.0,No,5.9,No
+39,Female,20.0,General Medicine,31.4,134.0,172.0,No,2.4,No
+85,Female,72.0,General Medicine,23.7,109.0,166.0,Yes,1.0,Yes
+225,Male,40.0,Orthopedics,27.4,128.0,196.5,No,4.6,No
+20,Male,41.0,Neurology,21.9,127.0,125.0,No,0.8,No
+73,Male,51.0,Unknown,25.5,157.0,184.0,No,4.5,No
+76,Female,43.0,Orthopedics,28.2,129.0,194.0,Yes,0.2,No
+265,Male,49.0,Unknown,32.2,151.0,207.0,Yes,5.4,No
+41,Female,60.0,Cardiology,25.5,127.0,200.0,No,6.5,No
+304,Unknown,56.0,Cardiology,15.9,132.0,222.0,No,0.7,Yes
+111,Female,45.0,General Medicine,25.2,125.0,208.0,No,3.3,No
+324,Female,64.0,General Medicine,26.4,120.0,195.0,No,3.8,No
+49,Male,67.0,General Medicine,24.3,150.0,182.0,No,1.6,No
+19,Female,17.0,Cardiology,27.3,134.0,144.0,No,2.3,No
+44,Male,67.0,Orthopedics,25.9,120.0,196.5,No,1.5,Yes
+274,Female,46.0,General Medicine,17.8,111.0,148.0,No,10.0,Yes
+91,Female,44.0,General Medicine,29.7,119.0,208.0,No,0.3,No
+276,Male,40.0,General Medicine,22.3,146.0,269.0,No,1.9,Yes
+161,Male,27.0,Neurology,28.1,122.0,187.0,Yes,1.7,Yes
+115,Female,45.0,Neurology,24.8,142.0,219.0,No,10.3,No
+69,Female,34.0,General Medicine,25.5,138.0,179.0,No,0.3,No
+216,Unknown,29.0,General Medicine,25.7,111.0,178.0,No,0.9,No
+132,Female,61.0,Orthopedics,26.3,106.0,210.0,Yes,3.2,No
+2,Female,46.0,Neurology,25.5,151.0,183.0,Yes,1.5,No
+188,Male,29.0,Cardiology,35.9,134.0,202.0,No,3.9,No
+179,Male,80.0,Cardiology,22.5,126.0,210.0,Yes,2.8,No
+182,Male,39.0,Neurology,23.3,100.0,178.0,No,1.1,Yes
+134,Male,53.0,General Medicine,23.2,125.0,192.0,Yes,4.5,Yes
+224,Male,43.0,General Medicine,25.5,138.0,186.0,Yes,1.4,No
+249,Female,44.0,Unknown,29.4,111.0,196.5,Yes,3.3,Yes
+284,Male,48.0,General Medicine,26.2,119.0,224.0,Unknown,7.5,No
+169,Male,43.0,Cardiology,27.4,110.0,182.0,No,3.6,No
+264,Female,37.0,Orthopedics,14.5,107.0,239.0,Yes,1.9,No
+143,Male,66.0,General Medicine,27.4,128.0,187.0,No,8.7,No
+246,Female,48.0,Cardiology,15.2,132.0,215.0,Yes,0.9,No
+301,Female,84.0,General Medicine,27.2,130.0,190.0,No,1.5,No
+28,Female,45.0,Neurology,26.0,107.0,205.0,No,3.3,No
+139,Female,22.0,General Medicine,30.0,121.0,219.0,Yes,1.2,Yes
+90,Female,8.0,Neurology,18.5,134.0,232.0,Yes,1.2,No
+24,Female,27.0,Cardiology,17.4,149.0,201.0,No,1.7,No
+97,Female,55.0,Neurology,25.7,96.0,184.0,No,1.5,No
+80,Male,35.0,General Medicine,27.9,109.0,220.0,Yes,6.6,No
+343,Female,63.0,Cardiology,22.3,160.0,248.0,No,0.7,No
+193,Male,75.0,Orthopedics,25.8,112.0,196.5,No,2.5,Yes
+243,Male,24.0,Orthopedics,25.5,125.0,195.0,No,4.2,No
+172,Male,32.0,Neurology,29.1,136.0,191.0,Yes,4.1,No
+327,Male,45.0,Cardiology,28.3,130.0,217.0,No,7.8,Yes
+68,Female,49.0,Neurology,29.3,125.0,170.0,No,0.3,No
+146,Male,38.0,General Medicine,30.3,111.0,174.0,Yes,0.8,Yes
+82,Male,36.0,Cardiology,31.7,137.0,246.0,No,1.1,No
+232,Male,57.0,Cardiology,22.1,112.0,225.0,No,0.5,Yes
+331,Male,34.0,General Medicine,26.1,111.0,182.0,No,4.7,No
+141,Female,47.0,Cardiology,25.7,144.0,124.0,Unknown,0.6,No
+35,Male,72.0,Orthopedics,29.0,159.0,235.0,Yes,1.1,No
+126,Male,43.0,General Medicine,27.5,133.0,133.0,No,6.2,No
+237,Male,69.0,General Medicine,28.1,135.0,160.0,Yes,5.2,No
+302,Female,53.0,General Medicine,27.5,111.0,203.0,No,7.5,No
+254,Male,24.0,Neurology,22.5,135.0,162.0,No,6.0,Yes
+177,Male,38.0,Neurology,27.5,104.0,206.0,No,7.0,No
+93,Male,8.0,Cardiology,28.9,110.0,224.0,Yes,2.0,Yes
+110,Male,73.0,Cardiology,27.0,121.0,156.0,No,0.3,No
+281,Male,15.0,Neurology,22.3,142.0,224.0,No,11.5,No
+339,Male,15.0,Cardiology,29.2,128.0,233.0,No,8.2,No
+72,Male,22.0,Orthopedics,20.8,128.0,215.0,No,1.7,No
+162,Female,39.0,Cardiology,26.7,94.0,245.0,Yes,3.9,No
+333,Male,54.0,Cardiology,35.9,134.0,237.0,Yes,3.5,No
+270,Female,25.0,General Medicine,27.8,110.0,206.0,No,4.2,No
+338,Female,27.0,Cardiology,34.7,145.0,240.0,No,4.3,No
+92,Female,46.0,General Medicine,16.9,125.0,214.0,No,3.1,No
+81,Male,4.0,Orthopedics,36.800000000000004,135.0,224.0,Yes,7.8,No
+192,Male,56.0,Cardiology,21.1,127.0,193.0,Yes,2.3,No
